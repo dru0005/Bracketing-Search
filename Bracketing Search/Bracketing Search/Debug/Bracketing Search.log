@@ -1,0 +1,3 @@
+﻿  Bracketing Search.cpp
+C:\Users\Riley\OneDrive\Documents\IT 2020\Program Exercises\Bracketing Search\Bracketing Search\Bracketing Search.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bracketing Search.vcxproj -> C:\Users\Riley\OneDrive\Documents\IT 2020\Program Exercises\Bracketing Search\Debug\Bracketing Search.exe
