@@ -1,0 +1,3 @@
+﻿  Bracketing search 2.cpp
+C:\Users\Riley\source\repos\Bracketing search 2\Bracketing search 2\Bracketing search 2.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bracketing search 2.vcxproj -> C:\Users\Riley\source\repos\Bracketing search 2\Debug\Bracketing search 2.exe
